@@ -6,7 +6,7 @@ Emerging from stealth after **1B+ tokens of R&D** to deploy self-optimizing, mul
 ### 🏛 The Ecosystem
 *   **[Production Blueprints](https://github.com/EVO-ULTRA-INNOVATIONS/EVO-ULTRA-Production-Blueprints):** Pioneering foundational infrastructure for autonomous AI ecosystems.
 *   **[Historical Museum](https://github.com/EVO-ULTRA-INNOVATIONS/EVO-ULTRA-Historical-Museum):** The 1B+ token forensic record of our stealth R&D cycle.
-*   **[Sovereign HQ](https://evo-ultra-innovations.github.io):** Official Technical Landing Page.
+*   **[Unified HQ](https://evo-ultra-innovations.github.io):** Official Technical Landing Page.
 
 ### 🛡 Core Directives
 1.  **Revolutionary Interaction:** Changing how humanity builds and collaborates with AI.
